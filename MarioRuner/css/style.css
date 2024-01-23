@@ -44,7 +44,7 @@
 
 #instrucoes {
     position: fixed;
-    bottom: 10px; /* Ajuste este valor conforme necessário */
+    bottom: 10px;
     left: 10px;
     font-size: 20px;
     color: #000000;
